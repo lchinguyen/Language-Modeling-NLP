@@ -1,3 +1,6 @@
 # Language-Modeling-NLP
 
-Citation: https://www.kaggle.com/datasets/aliakay8/penn-treebank-dataset
+Citation: 
+Penn Treebank (PTB) dataset pre-processed specifically for language modeling
+
+https://www.kaggle.com/datasets/aliakay8/penn-treebank-dataset
